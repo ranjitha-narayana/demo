@@ -1,5 +1,1 @@
-this is git example list
-hello
-welcome
-
-hlo ......
+This is the sample file 
